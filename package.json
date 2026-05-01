@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/open-eval-courtroom.git"
+    "url": "https://github.com/sdevkota/open-eval-courtroom.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/open-eval-courtroom/issues"
+    "url": "https://github.com/sdevkota/open-eval-courtroom/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/open-eval-courtroom/"
+  "homepage": "https://sdevkota.github.io/open-eval-courtroom/"
 }
