@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/open-eval-courtroom",
+  "version": "1.0.0",
+  "description": "Citation and claim review packets for legal and policy AI outputs. Legal and policy AI tools can sound authoritative while hallucinating citations or applying stale law.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "open-eval-courtroom": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "open-eval-courtroom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/open-eval-courtroom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/open-eval-courtroom/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/open-eval-courtroom/"
+}
